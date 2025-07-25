@@ -1,0 +1,26 @@
+# Summary
+
+Date : 2025-04-15 12:38:02
+
+Directory /Users/jeffreybenson/Documents/school_projects/flutter_projects/firebase_functions/functions/src
+
+Total : 6 files,  691 codes, 28 comments, 157 blanks, all 876 lines
+
+Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
+
+## Languages
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| TypeScript | 6 | 691 | 28 | 157 | 876 |
+
+## Directories
+| path | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| . | 6 | 691 | 28 | 157 | 876 |
+| . (Files) | 2 | 22 | 2 | 8 | 32 |
+| orders | 1 | 188 | 9 | 49 | 246 |
+| otp | 1 | 130 | 5 | 31 | 166 |
+| paystack | 1 | 178 | 7 | 29 | 214 |
+| withdrawal | 1 | 173 | 5 | 40 | 218 |
+
+Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)

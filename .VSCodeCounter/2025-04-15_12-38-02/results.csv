@@ -1,0 +1,8 @@
+"filename", "language", "TypeScript", "comment", "blank", "total"
+"/Users/jeffreybenson/Documents/school_projects/flutter_projects/firebase_functions/functions/src/firebase.ts", "TypeScript", 6, 2, 4, 12
+"/Users/jeffreybenson/Documents/school_projects/flutter_projects/firebase_functions/functions/src/index.ts", "TypeScript", 16, 0, 4, 20
+"/Users/jeffreybenson/Documents/school_projects/flutter_projects/firebase_functions/functions/src/orders/order.utils.ts", "TypeScript", 188, 9, 49, 246
+"/Users/jeffreybenson/Documents/school_projects/flutter_projects/firebase_functions/functions/src/otp/otp.utils.ts", "TypeScript", 130, 5, 31, 166
+"/Users/jeffreybenson/Documents/school_projects/flutter_projects/firebase_functions/functions/src/paystack/paystack.utils.ts", "TypeScript", 178, 7, 29, 214
+"/Users/jeffreybenson/Documents/school_projects/flutter_projects/firebase_functions/functions/src/withdrawal/withdrawal.utils.ts", "TypeScript", 173, 5, 40, 218
+"Total", "-", 691, 28, 157, 876
